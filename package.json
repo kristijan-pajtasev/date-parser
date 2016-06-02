@@ -1,11 +1,21 @@
 {
   "name": "@kpajtasev/date-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dev/dateParser.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "keywords": [
+    "date",
+    "dates",
+    "javascript",
+    "module",
+    "browser",
+    "parser",
+    "string to date",
+    "string2date"
+  ],
+  "author": "Kristijan Pajtasev",
   "license": "ISC"
 }
